@@ -1,7 +1,7 @@
-const LandingPage = () => {
+const landing = () => {
   return (
     <div>
-      Landing
+      LandingPage
     </div>
   )
 }
